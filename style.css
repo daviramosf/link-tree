@@ -10,7 +10,7 @@ a {
 }
 
 body {
-  background-color: aliceblue;
+  background-color: rgb(51, 56, 52);
   background: url(./src/background.jpg);
   background-repeat: no-repeat;
 
